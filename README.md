@@ -1,4 +1,4 @@
-![nginx 1.9.2](https://img.shields.io/badge/nginx-1.9.2-brightgreen.svg) ![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+[![](https://ci.solanolabs.com:443/isaac-docker/nginx-proxy/badges/branches/solano-test-suite?badge_token=9c71a26e7f4c85685bae1c0fc3c62de0adeff8ee)](https://ci.solanolabs.com:443/isaac-docker/nginx-proxy/suites/304374) ![nginx 1.9.2](https://img.shields.io/badge/nginx-1.9.2-brightgreen.svg) ![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
 nginx-proxy sets up a container running nginx and [docker-gen][1].  docker-gen generates reverse proxy configs for nginx and reloads nginx when containers are started and stopped.
 
